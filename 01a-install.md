@@ -51,7 +51,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I started learning Python as part of the data science curriculum at Dataquest. Dataquest only teaches 3.x, so I was more comfortable using python 3.So far I have not experienced any compatibility issues.The more I read about python 3, i have realised that Python 3  is the future and there will be no future security or bug fixes for Python 2.
 
 ### Q2. Which Python Version Installed   
 
