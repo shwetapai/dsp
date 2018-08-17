@@ -1,4 +1,4 @@
-# [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  
+# [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)  (completed this section)
 
 ## Objective
 - It is relevant to learn Markdown so the pre-work can be submitted in an easy-to-read format.  
